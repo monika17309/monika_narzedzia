@@ -1,0 +1,1 @@
+Projekt WSB w ramach zajęć z przedmiotu Narzędzia wspierające wytwarzanie oprogramowania - lato 2022
